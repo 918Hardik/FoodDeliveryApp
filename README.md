@@ -1,1 +1,1 @@
-hbdasdsandasjdn
+This Food Delivery application is built using the MERN stack (MongoDB, Express.js, React, Node.js). The app allows users to browse various food items, add items to their cart, place orders, and track their delivery status. Users can register and log in to manage their orders, while administrators have access to a special panel to manage food items and orders.
